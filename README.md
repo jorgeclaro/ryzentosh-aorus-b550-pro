@@ -1,6 +1,6 @@
 # ryzentosh-aorus-b550-pro
 
-##Post-install
+## Post-install
 
 Power settings:
 
